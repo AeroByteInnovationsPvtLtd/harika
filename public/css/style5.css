@@ -1,0 +1,43 @@
+#icon-bar{
+    width:900px;
+    margin:90px auto;
+} 
+#icon-bar> .icon-frame{
+    border:solid red; 
+    display: inline-block;
+    height:85px; 
+    width:85px;
+    background-image:url("https://as1.ftcdn.net/jpg/02/95/59/10/1000_F_295591088_2BXVfohWhxLHP1KWAYzz9KJu07mG2Tpu.webp");
+    background-repeat: no-repeat;
+}
+ #icon-bar > .circle{ 
+    border-radius: 200px;
+
+ }
+
+#twitter{
+    background-position: -400px -140px;
+ 
+ }      
+
+ #facebook{
+    background-position: -45px -140px;
+ 
+ }
+
+ #youtube{
+    background-position: -750px -140px;
+ 
+ }
+ #linkdin{
+    background-position: -634px -140px;
+ 
+ }
+ #instagram{
+    background-position: -281px -140px;
+  
+ }
+ #pintrest{
+    background-position: -516px -140px;
+ 
+ }
